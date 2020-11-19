@@ -3,7 +3,7 @@
 
 Full Stack Ecommerce Application
 
--Full Stack Ecommerce Application built on Node.js
+-Built on Node.js   
 
 Stack:
       HTML
